@@ -1,0 +1,24 @@
+html {
+  font-size: 62.5%;
+}
+
+body {
+  font-size: 1.6rem;
+  font-family: "Courier New", Courier, monospace;
+  padding-top: 40px;
+  text-align: center;
+}
+
+img {
+  width: 100%;
+  -o-object-fit: cover;
+     object-fit: cover;
+  height: auto;
+}
+
+#target {
+  font-size: 48px;
+  letter-spacing: 0.1em;
+  margin-bottom: 30px;
+}
+/*# sourceMappingURL=style.css.map */
